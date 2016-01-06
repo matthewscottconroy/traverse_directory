@@ -1,0 +1,25 @@
+{
+  "name": "traverse_directory",
+  "version": "1.0.0",
+  "description": "Traverses a directory and performs a user provided function on each file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewscottconroy/traverse_directory.git"
+  },
+  "keywords": [
+    "traverse",
+    "directory",
+    "recursive",
+    "utility"
+  ],
+  "author": "Matthew Scott Conroy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewscottconroy/traverse_directory/issues"
+  },
+  "homepage": "https://github.com/matthewscottconroy/traverse_directory#readme"
+}
