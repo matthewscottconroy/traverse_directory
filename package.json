@@ -1,6 +1,6 @@
 {
   "name": "traverse_directory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Traverses a directory and performs a user-provided function on each file.",
   "main": "index.js",
   "scripts": {
